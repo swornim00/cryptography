@@ -23,4 +23,5 @@ $ python3 shift_n.py
 
 ```
 
-# This project is licensed under MIT License
+# LICENSE
+This project is licensed under MIT License.
